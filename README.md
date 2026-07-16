@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vasanthikasukurthi1-sys/leetcode/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/vasanthikasukurthi1-sys/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/vasanthikasukurthi1-sys/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
